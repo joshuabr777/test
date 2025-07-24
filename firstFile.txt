@@ -1,7 +1,7 @@
 line one modified
 line two modified
-line three modified
-line four modified
+line three modified again
+line four modified again
 line five
 line six
 line seven
